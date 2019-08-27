@@ -1,0 +1,25 @@
+.ArticleView {
+    margin: 0 auto 0 auto;
+    padding: 5%;
+    width: 90%;
+    background-color: #282c34;
+}
+
+.ArticleView-Title {
+    text-align: center;
+    color: white;
+}
+
+.ArticleView-Content {
+    background-color: white;
+    text-align: left;
+    padding:5%;
+    height: 60vh;
+    overflow: auto;
+}
+
+.ArticleView-Back {
+    float: right;
+    font-size: 20px;
+    margin-top: 2%;
+}
